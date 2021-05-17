@@ -1,4 +1,5 @@
 +++
+draft = true
 [[flexible_layout_blocks]]
 background_image = "/images/portfolio/item-6.png"
 caption = "Just a little hero caption"
