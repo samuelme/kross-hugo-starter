@@ -1,4 +1,11 @@
 ---
 label: Flexible Pages
 hide_body: true
-fields: []
+fields:
+- name: flexible_layout_blocks
+  type: blocks
+  label: Flexible Layout Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
