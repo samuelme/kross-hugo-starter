@@ -8,7 +8,7 @@ sections:
   path: content
   label: Flexible Pages
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: content/portfolio
   label: Portfolio
