@@ -5,7 +5,8 @@ fields:
 - name: flexible_layout_blocks
   type: blocks
   label: Flexible Layout Blocks
-  template_types: []
+  template_types:
+  - layout-icons
   config:
     min: 
     max: 
