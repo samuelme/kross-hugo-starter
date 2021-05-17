@@ -6,6 +6,7 @@ fields:
   type: blocks
   label: Flexible Layout Blocks
   template_types:
+  - layout-hero
   - layout-icons
   config:
     min: 
