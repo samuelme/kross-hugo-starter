@@ -9,6 +9,8 @@ sections:
   label: Flexible Pages
   create: all
   match: "*"
+  templates:
+  - flexible-pages
 - type: directory
   path: content/portfolio
   label: Portfolio
